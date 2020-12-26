@@ -6,7 +6,7 @@ Im currently going through UofT's data analytics bootcamp and I will be uploadin
 
 My project goals:
 - Work on a smart city project with data and IoT
-- Create a game with real mini flying spaceships that you have to take down using lazers
+- Create a game with real mini flying spaceships that you have to take down using lazers :space_invader: :space_invader: :space_invader:
 - Merge machine learning and econometrics and work on a policy problem
 - See my paintings in a museum :see_no_evil:
 - Help my friend's landscaping business by working on data driven marketing
