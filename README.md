@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! :koala:
 
-<!--
-**Kee2u/Kee2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#My name is Keerthana but you can call me Keetu. I work as a mechatronics engineer but love painting on the side! I use my studio to paint and code :bowtie:. 
 
-Here are some ideas to get you started:
+Im currently going through UofT's data analytics bootcamp and I will be uploading super cool data analytics projects soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My project goals:
+- Work on a smart city project with data and IoT
+- :space_invader: Create a game with real mini flying spaceships that you have to take down using lazers
+-  Merge machine learning and econometrics and work on a policy problem
+- :art: See my paintings in a museum :see_no_evil:
+- :herb: Help my friend's landscaping business by working on data driven marketing
+
+If you want to chat you can email me at:
+>keetu.jk@gmail.com
+I love making new friends :grin:
