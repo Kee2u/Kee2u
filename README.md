@@ -8,8 +8,8 @@ My project goals:
 - Work on a smart city project with data and IoT
 - Create a game with real mini flying spaceships that you have to take down using lazers
 - Merge machine learning and econometrics and work on a policy problem
-- :art: See my paintings in a museum :see_no_evil:
--Help my friend's landscaping business by working on data driven marketing
+- See my paintings in a museum :see_no_evil:
+- Help my friend's landscaping business by working on data driven marketing
 
 If you want to chat you can email me at:
 >keetu.jk@gmail.com
