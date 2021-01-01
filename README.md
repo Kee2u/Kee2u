@@ -15,4 +15,4 @@ If you want to chat you can email me at:
 >keetu.jk@gmail.com
 I love making new friends :grin:
 
-![gif](https://github.com/Kee2u/Kee2u/blob/master/giphy.gif?raw=true)
+
