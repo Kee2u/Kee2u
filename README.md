@@ -1,6 +1,6 @@
-### Hi there! :koala:
+### Hi there! 
 
-#My name is Keerthana but you can call me Keetu. I work as a mechatronics engineer but love painting on the side! I use my studio to paint and code :bowtie:. 
+My name is Keerthana but you can call me Keetu. I work as a mechatronics engineer but love painting on the side! I use my studio to paint and code :bowtie:. 
 
 Im currently going through UofT's data analytics bootcamp and I will be uploading super cool data analytics projects soon!
 
