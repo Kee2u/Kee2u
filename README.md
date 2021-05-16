@@ -2,7 +2,7 @@
 
 My name is Keerthana but you can call me Keetu. I work as a mechatronics engineer but love painting on the side! I use my studio to paint and code.
 
-I am also working on deciphering the Indus Valley Script! Check it out here!
+I am currently working on deciphering the Indus Valley Script! Check it out here!
 https://github.com/Kee2u/Deciphering_the_Indus_Valley_Script
 
 My completed projects involve: 
