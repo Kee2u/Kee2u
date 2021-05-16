@@ -1,18 +1,26 @@
 ### Hi there! 
 
-My name is Keerthana but you can call me Keetu. I work as a mechatronics engineer but love painting on the side! I use my studio to paint and code :bowtie:. 
+My name is Keerthana but you can call me Keetu. I work as a mechatronics engineer but love painting on the side! I use my studio to paint and code.
 
-Im currently going through UofT's data analytics bootcamp and I will be uploading super cool data analytics projects soon!
+I am also working on deciphering the Indus Valley Script! Check it out here!
+https://github.com/Kee2u/Deciphering_the_Indus_Valley_Script
 
-My project goals:
-- Work on a smart city project with data and IoT
-- Create a game with real mini flying spaceships that you have to take down using lazers :space_invader: :space_invader: :space_invader:
-- Merge machine learning and econometrics and work on a policy problem
-- See my paintings in a museum :see_no_evil:
-- Help my friend's landscaping business by working on data driven marketing
+My completed projects involve: 
+- Data cleaning and statistical analysis using Pandas, R and Pyspark
+- Databases such as SQLite, PostgresQL and MongoDB
+- Webscraping using APIs, chrome developer tools, beautiful soup and splinter
+- Web visualization using javascript leaflet and d3, bootstrap, HTML and CSS
+- Plotting tools such as Matplotlib and Pyplot
+- Business intelligence tools such as Tableau
+- Cloud servers such as AWS RDS and S3
+- Data Manipulation using Excel and VBA
+- Supervised and Unsupervised machine learning using Scikit-Learn, Tensorflow and Keras
 
-If you want to chat you can email me at:
+
+Email:
 >keetu.jk@gmail.com
-I love making new friends :grin:
+
+LinkedIn:
+>https://www.linkedin.com/in/keerthanajayakumar/
 
 
