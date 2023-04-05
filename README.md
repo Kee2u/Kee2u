@@ -1,6 +1,6 @@
 ### Hi there! 
 
-My name is Keerthana but you can call me Keetu. I am a mechatronics engineer turned data engineer. I am have a small business as a professional artist and sell oil paintings. See my instagram here: https://www.instagram.com/artbykeetu/
+My name is Keerthana but you can call me Keetu. I am a mechatronics engineer turned data engineer. I also have a small business as a professional artist and sell oil paintings. See my instagram here: https://www.instagram.com/artbykeetu/
 
 I am currently working on deciphering the Indus Valley Script using Machine Learning and Natural Language Processing techniques! Check it out here!
 https://github.com/Kee2u/Deciphering_the_Indus_Valley_Script
