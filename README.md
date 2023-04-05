@@ -1,6 +1,6 @@
 ### Hi there! 
 
-My name is Keerthana but you can call me Keetu. I am a mechatronics engineer and data analyst. I also love painting on the side! I use my studio to paint and code.
+My name is Keerthana but you can call me Keetu. I am a mechatronics engineer turned data engineer. I also love painting on the side! I use my studio to paint and code.
 
 I am currently working on deciphering the Indus Valley Script using Machine Learning and Natural Language Processing techniques! Check it out here!
 https://github.com/Kee2u/Deciphering_the_Indus_Valley_Script
